@@ -1,5 +1,4 @@
 import 'package:brokedex/bro_card.dart';
-import 'package:brokedex/login_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_tindercard/flutter_tindercard.dart';
 
@@ -58,7 +57,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 color: Colors.blue,
               ),
             ),
-            LoginPage(),
             ListTile(
               leading: Icon(Icons.contacts),
               title: Text('Deck'),
