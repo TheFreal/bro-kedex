@@ -1,4 +1,4 @@
-package com.example.brokedex
+package de.freal.brokedex
 
 import android.os.Bundle
 
